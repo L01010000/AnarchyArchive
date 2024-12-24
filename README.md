@@ -6,9 +6,9 @@
     
 </div>
 
-#PoC
+# PoC
 
-<img src="https://github.com/L01010000/AnarchyArchive/blob/main/poc.png" width="700px" />
+<img src="https://github.com/L01010000/AnarchyArchive/blob/main/poc.png" width="900px" />
 
 
 # Installation & Usage
