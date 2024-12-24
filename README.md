@@ -3,7 +3,7 @@
  <h1>Anarchy Archive</h1>
   <br>
     
-</div>
+
 
 # PoC
 
@@ -31,6 +31,8 @@ To use the tool, just enter in your terminal:
 <li>Parrot OS</li>
 <li>Arch Linux</li>
 <br>
+
+</div>
 
 # Enjoy
 
