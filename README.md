@@ -1,6 +1,7 @@
 <div align='center'>
-<img src="https://github.com/L01010000/AnarchyArchive/blob/main/logo.png" width="250px" />
+
  <h1>Anarchy Archive</h1>
+<img src="https://github.com/L01010000/AnarchyArchive/blob/main/logo.png" width="250px" />
  
   <br>
     
