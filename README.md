@@ -5,7 +5,7 @@
     
 </div>
 
-<p><i>"You have to learn to master yourself, you have to learn to know yourself. The greatest thing you can do is to be yourself. To rise above the ordinary, to face the challenges of life with courage, and to transcend your limits.<br>You are the creator of your own fate. To become who you are, you must not only learn to confront the obstacles of life but also recognize that all knowledge is born from experience and action. Those who strive for greatness must challenge the conventional, for in that lies the true path of the philosopher.<br>But you, my friend, are not yet able to endure the knowledge that life itself is the greatest teacher. You will have to face the highest challenges in order to learn. Do not seek to be 'fit' for the world, but seek to make the world fit for you. Only then will you have truly learned."<br> - Nietzsche</i></p>
+<p><i><b>"You have to learn to master yourself, you have to learn to know yourself. The greatest thing you can do is to be yourself. To rise above the ordinary, to face the challenges of life with courage, and to transcend your limits.<br>You are the creator of your own fate. To become who you are, you must not only learn to confront the obstacles of life but also recognize that all knowledge is born from experience and action. Those who strive for greatness must challenge the conventional, for in that lies the true path of the philosopher.<br>But you, my friend, are not yet able to endure the knowledge that life itself is the greatest teacher. You will have to face the highest challenges in order to learn. Do not seek to be 'fit' for the world, but seek to make the world fit for you. Only then will you have truly learned."<br> - Nietzsche</i></b></p>
 
 
 
