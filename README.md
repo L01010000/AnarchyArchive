@@ -1,12 +1,9 @@
 <div align='center'>
 
  <h1>Anarchy Archive</h1>
-    
- <br>
-    
-
-
  <img src="https://github.com/L01010000/AnarchyArchive/blob/main/logo.png" width="300px" />
+  <br>
+    
 </div>
 
 
