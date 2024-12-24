@@ -6,7 +6,7 @@
     
 
 
- <img src="https://github.com/L01010000/AnarchyArchive/blob/main/logo.png" width="400px" />
+ <img src="https://github.com/L01010000/AnarchyArchive/blob/main/logo.png" width="300px" />
 </div>
 
 
